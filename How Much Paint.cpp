@@ -13,8 +13,7 @@ int main()
 	double totalgallons = gallons / 340;
 	double result1 = totalgallons + 1;
 	double coats = result1 * 2;
-	double finalresult = coats;
-	cout<< gallon1 <<endl << fencelength <<endl << fenceheight <<endl << area <<endl << gallons << endl << totalgallons << endl << result1 <<endl << coats <<endl << finalresult << endl;
+	cout<<"Gallon of 1 Paint is Cover = "  << gallon1 << " square feet area" <<endl << "Length of Fence = " << fencelength << " feet" <<endl << "Length of Height = " << fenceheight << " feet" <<endl <<"Total Area of Fence = " << area <<" square feet" << endl <<"According To 340 square feet We Have = " <<result1 <<" Gallons" <<endl <<"For Doing Two Coats of Paint on Mentioned Area We Need = " << coats <<" Gallons" <<endl;
 	getch();
 	return 0;
 	
