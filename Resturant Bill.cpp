@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double MealCost = 44.50,
+	float MealCost = 44.50,
 		   Tax		= MealCost * .0675,
 		   Tip 		= (MealCost + Tax) * .15,
 		   TBill	= MealCost + Tax + Tip;
