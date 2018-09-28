@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double NumOfShares  = 750,
+	float NumOfShares  = 750,
 		   CostOfShares = NumOfShares * 35.00,
 		   SellPrice 	= NumOfShares * 31.15,
 		   Loss			= CostOfShares - SellPrice;
