@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double Century = 100,
+	float Century = 100,
 		   MM 	   = 1.8 * Century,
 		   CM 	   = MM * 0.1,
 		   In 	   = CM * 0.3937;
