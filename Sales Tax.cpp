@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int 	PPrice	 = 95;
-	double	State	 = PPrice * .065,
+	float	State	 = PPrice * .065,
 			County	 = PPrice * .02,
 			TotalTax = State + County;
 
