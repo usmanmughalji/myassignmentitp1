@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double Acres   = .5,
+	float Acres   = .5,
 		   SqFeet  = Acres * 43560,
 		   SqMeter = SqFeet / 10.7639;
 
