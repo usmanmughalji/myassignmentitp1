@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double Annual 	= 39000,
+	float Annual 	= 39000,
 		   BiMTH	= Annual / 24,
 		   BiWeek 	= Annual / 26;
 
