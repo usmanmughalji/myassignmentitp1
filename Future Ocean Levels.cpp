@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double RiseMM = 3.1 * 15,
+	float RiseMM = 3.1 * 15,
 		   RiseCM = RiseMM * 0.1,
 		   RiseIn = RiseMM * 0.0393701;
 
