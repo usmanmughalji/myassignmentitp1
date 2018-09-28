@@ -5,10 +5,10 @@ using namespace std;
 int main()
 
 {
-	double acre = 43450;
-	double land	= 312840;
+	float acre = 43450;
+	float land	= 312840;
 	
-	double conversion = land / acre;
+	float conversion = land / acre;
 	
 	cout << "The Total Land = " << land <<" sq/ft. \n"<<"After Conversion = " << conversion <<" acres.";
 	getch();
