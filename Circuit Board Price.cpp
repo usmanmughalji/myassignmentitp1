@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double Cost 	 = 14.95,
+	float Cost 	 = 14.95,
 		   PProfit	 = .35,
 		   SellPrice = Cost * (1 + PProfit);
 
