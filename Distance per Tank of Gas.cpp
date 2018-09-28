@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double FullTank = 20,
+	float FullTank = 20,
 		   Town 	= FullTank * 23.5,
 		   Highway 	= FullTank * 28.9;
 
